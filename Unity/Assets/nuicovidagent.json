@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "USE YOUR DIALOG FLOW PROJECT ID",
+  "private_key_id": "USE YOUR DIALOG FLOW PROJECT KEY",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsGZq8pqNoL1HB\nPyr07+rOZe+2yZ4lpbN8z0gsdPTf9ciAX2WvLmXssBMWuvEq/6UdQ5oQQQSQL1zE\n4ULJrnZoEcQLx8Xpv7WAZWY8LnKeCBu8GA5+IyvpwNQoEoqqV8dcGWwEKiGNcKqb\nH9bV83SXhx0DXsgO8nd9Fovr7OEBXryxJfSIcSU+rwTS8Qd4W9qbajAMDII0PFIr\nZyHXzzTQP4aQzBoi0hQMY0gJiDIosdVcE+QRYY0YCtXJJQWUYrSDqHq7UPwVKQ8J\n9gkE62m21G55NrPxyjgXwqgWmiQyWZ1RSFNhP3qZpsZycg5SXZ5dHDqbPJHOWz0H\nWRcovhitAgMBAAECggEAHM0hKfqqRKSMpk5Tuk+PaHDDTAAUXSEMt3G6FqSRGYz4\nu9EbQ5S8fn6eBzMMasGDSLE4TomPAbFHcXRwWK+/hZ2ZhU4uxzZr4du2XxJ34I4j\nVBhjjoUE05cPelBWD/lmNfnUK6NAX7sP9it/KOmYJMa6GocJbITz7cVw77ACHNgO\n37Y8E2l5JoxOiL5ERDI/JXcXbxY5GSIRYc1C5zMjGmOrk6J45FIuTQd9CKMeQXBm\nocqYxNuwamxuB65nic4dH7Hj31RIPgCqfjmPy8TRRTMI4y84uYZ02hr4o8e3+8uW\n63BP1oOY8Iqukv7TNR9Ilz8tOx77944U+AvPyLA1IQKBgQDujtqpVWTRRzO3roYC\njXll8Cs2A19c22tNHinDSRQyj7jGdvJgyaqTJ2qHpQo+HRwWNcAdXtrcLI2Sufto\nXfFcU0qKjQDxdifLUWw5VDp6nM6ntenMgR2m+8kwYEb8mkdwu9T42zT8qwV5X50V\n+1uqVMTuCjNS4lZwiRQWplURjQKBgQC4rtcitfM3n800G5IQGslDO7Xm+j30uY5N\n9H0pbBvZm9AnPokqzwIJwBp44kwcWqZDxQqzDQ5JAJ3dY2z4uP39AV0FPzy7GNMY\nh9RzMvAhF5mBpQS/Oq6HxXhulfWzweKNnMG+iGlf8/jtSfpOLCFQHltuVZHKHbSB\nMRFkj7ELoQKBgFGe8POU8wyjlu9WuCUxcILPPImbd8pWjIzzMAjP/SgbgnXtBprV\nBRaaGtnUPv/nh8+Vjmi+JpXEbJ/yIDGiSs1y9gMXoWX8LjtjXWr0BZokApThKeA9\noP6cEUcK+d69jonkykZnAecdQJ85do6p1MAfhs2HEe5e4IJadFQXju2VAoGBALMB\nNKD+PsnxaBJTjtVxQRabr4o7jwW/PMEucopNsQjQz4baRFVr5AvTWVVF8oOhEXqq\nZ954jxoPMPQ+xIant/cc9S56xsCKJUGnljI6cymAGFfivKElnbkXm82EKGydRpwA\nDoJA8fIBJYvJooVWnMttQS3GXtLKzARUrQkNhYtBAoGBAI748PyjH1Oaf23yCXmc\nHugKL9iWPliY4LjZ/rUbKxDN5BnoQ/ZuyJg3TjtK0vjLscpVO8lXvkFfGgNye8gG\n0Z52NYnS+7QJffhhesTUVGbPVSxF5kuQ+56HXXUyLy6NDCW9n+ihrCUtK6Vj5cbL\n4UtAwxdzggH5W6INQ+1V23AH\n-----END PRIVATE KEY-----\n",
+  "client_email": "harishnuicovid@nuicovidagent-jomvll.iam.gserviceaccount.com",
+  "client_id": "104143184094693284811",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/harishnuicovid%40nuicovidagent-jomvll.iam.gserviceaccount.com"
+}
